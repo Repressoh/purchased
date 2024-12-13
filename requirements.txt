@@ -1,0 +1,7 @@
+requests
+pyautogui
+flask
+psycopg2
+pyscreeze
+Pillow
+waitress
