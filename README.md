@@ -1,4 +1,4 @@
-# purchased
+# purchased [![CodeQL](https://github.com/Repressoh/purchased/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Repressoh/purchased)
 Automatically retrieve licenses for apps on the Apple App Store.
 
 > [!NOTE]
